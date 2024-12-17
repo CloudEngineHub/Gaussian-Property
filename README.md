@@ -10,7 +10,7 @@
 
 
 <a href="https://Gaussian-Property.github.io"><img src="https://img.shields.io/badge/Project_Page-Online-EA3A97"></a>
-<a href="http://218.23.122.14:61019/"><img src="https://img.shields.io/badge/ArXiv-2404.07191-brightgreen"></a> 
+<a href="https://arxiv.org/abs/2412.11258"><img src="https://img.shields.io/badge/ArXiv-2412.11258-brightgreen"></a> 
 <a href="http://218.23.122.14:61019/"><img src="https://img.shields.io/badge/Gradio-demo-red"></a> 
 
 
@@ -90,6 +90,8 @@ If you find this project helpful in your research or applications, please cite i
 ```BibTeX
 @article{xu2024gaussianproperty,
   title={GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs},
+  author={Xinli Xu and Wenhang Ge and Dicong Qiu and ZhiFei Chen and Dongyu Yan and Zhuoyun Liu and Haoyu Zhao and Hanfeng Zhao and Shunsi Zhang and Junwei Liang and Ying-Cong Chen},
+  journal={arXiv preprint arXiv:2412.11258},
   year={2024}
 }
 ```
