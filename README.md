@@ -4,6 +4,7 @@
 
 
 # GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs
+Accepted to ICCV2025
 <div style="display: grid; place-items: center;">
 <img src="assets/logo.png" width="50%" alt="Logo">
 </div>
@@ -25,6 +26,7 @@ Official implementation of GaussianProperty: Integrating Physical Properties to 
 </div>
 
 # 🚩 Features
+- [✅] GaussianProperty has been accepted to ICCV 2025.
 - [✅] Release physical property prediction code.
 - [✅] Gradio online demo available. Try it at [demo](http://218.23.122.14:61019/) link.
 - [TODO] Release physical-based simulation models and configurations.
